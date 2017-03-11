@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "splash_screen",
+    "texture": "6852efec-b36f-4c58-ab89-ca956b724f68",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      400,
+      600
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      400,
+      600
+    ]
+  }
+}

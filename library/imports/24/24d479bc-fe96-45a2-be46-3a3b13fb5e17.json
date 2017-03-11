@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ship_death_2",
+    "texture": "f9246e9c-70f0-49fb-b618-fcc5e54f764f",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      61,
+      64
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      64,
+      64
+    ]
+  }
+}

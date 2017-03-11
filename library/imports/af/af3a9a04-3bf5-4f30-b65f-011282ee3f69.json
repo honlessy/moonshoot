@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "starfield",
+    "texture": "30101c8e-6b36-4706-af64-300fe0a48c6b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      400,
+      1369
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      400,
+      1369
+    ]
+  }
+}

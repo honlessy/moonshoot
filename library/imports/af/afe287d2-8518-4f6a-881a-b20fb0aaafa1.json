@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "win_score",
+    "texture": "0deec396-634d-4a35-8389-4241380fd887",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      255,
+      189
+    ],
+    "offset": [
+      -0.5,
+      33.5
+    ],
+    "originalSize": [
+      256,
+      256
+    ]
+  }
+}
